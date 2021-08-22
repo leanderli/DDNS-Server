@@ -1,0 +1,5 @@
+.idea
+DDNS.iml
+# Project exclude paths
+/ddns-core/target/
+/ddns-server/target/
