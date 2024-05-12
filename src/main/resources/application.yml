@@ -1,0 +1,10 @@
+server:
+  port: 8848
+  servlet:
+    context-path: /ddns
+ali:
+  acs:
+    client:
+      region-id:
+      access-key-id:
+      access-key-secret:
